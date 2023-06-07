@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "80fe27636887a2dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "10cf61e6515c85c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32401e8018b6df9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d98052f9690d387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab5/report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bf9228835ed90ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa64a055318cdea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8d2e340b3c69141",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79da86165896be07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#实验原理",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e1d56d96218621f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "785f33ac69880699",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2edb8d15862aeb55",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9abfb72a3d150d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00bc5fe102f2b09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab5/report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9f508bd541ad060",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab5/report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80f54cb812e66aa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7815ba5ff5cfa48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab5/report.md"
+              }
+            }
+          },
+          {
+            "id": "388654df1ba48d52",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e029a17bd688a4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6d98052f9690d387",
+  "lastOpenFiles": [
+    "lab6/draft.md",
+    "lab6",
+    "lab5/figs/datapath.png",
+    "lab5/report.md",
+    "lab4_张瑞康_PB21061284/report.md",
+    "hw6.md",
+    "lab5/draft.md",
+    "lab5/figs",
+    "hw6.pdf",
+    "hw6_tmp.html",
+    "lab4/report.md",
+    "lab5",
+    "lab4/report_tmp.html",
+    "lab4/report.pdf",
+    "lab4/figs/Screenshot 2023-05-11 205424.png",
+    "lab4/figs/Screenshot 2023-05-11 205247.png",
+    "lab4/figs/Screenshot 2023-05-11 204831.png",
+    "lab4/指令简析.md",
+    "lab4/figs/Screenshot 2023-05-11 204607.png",
+    "lab4/figs/ALU.png",
+    "lab4/figs/Datapath.png",
+    "lab4/figs/Datapath(old).png",
+    "lab1/lab1_PB21061284_张瑞康.md",
+    "lab4/figs",
+    "lab4"
+  ]
+}

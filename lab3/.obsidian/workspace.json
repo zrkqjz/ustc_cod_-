@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "008c3080e0445970",
+    "type": "split",
+    "children": [
+      {
+        "id": "697650952eff7539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b6a4a333cdc91e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fe132262aa23d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8e6078cd102af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b716faf8e8a3f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1e653c505f43122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49dc0e1fa0e41d03",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9850e205d8191d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64512a44b528e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0588f3b08c54bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88455fc7781554bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c787a581ad79bc98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "report.md"
+              }
+            }
+          },
+          {
+            "id": "39de5181d69d2e4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5b6a4a333cdc91e2",
+  "lastOpenFiles": [
+    "report.md"
+  ]
+}
