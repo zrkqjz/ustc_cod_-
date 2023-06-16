@@ -253,6 +253,7 @@ lRE
 lrg
 lCX
 lrm
+lab
 ALU
 AD
 AKTN
@@ -847,6 +848,8 @@ fHK
 fYu
 fqq
 febN
+funt
+fail
 verilog
 vivado
 vw
@@ -5022,6 +5025,9 @@ BR
 Baa
 Baav
 BOOO
+BTB
+BHT
+BHR
 Yw
 YG
 Yq

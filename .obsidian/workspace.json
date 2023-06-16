@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a32401e8018b6df9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6d98052f9690d387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "lab5/report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd415320248eb419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab6/report/report.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab5/report.md",
+                "file": "lab6/report/report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab5/report.md",
+                "file": "lab6/report/report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab5/report.md"
+                "file": "lab6/report/report.md"
               }
             }
           },
@@ -180,32 +184,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d98052f9690d387",
+  "active": "cd415320248eb419",
   "lastOpenFiles": [
+    "lab6/report/report.pdf",
     "lab6/draft.md",
+    "lab6/report/report.md",
+    "lab5/report.md",
+    "lab6/report/figs/Screenshot 2023-06-15 233505.png",
+    "lab6/report/figs/Screenshot 2023-06-15 232337.png",
+    "lab6/report/figs/Screenshot 2023-06-15 232323.png",
+    "lab6/report/figs/Screenshot 2023-06-15 232259.png",
+    "lab6/report/figs/Screenshot 2023-06-14 203127 - 快捷方式.lnk",
+    "lab6/report/figs/Screenshot 2023-06-14 203127.png",
+    "lab6/report/figs",
+    "lab6/report/新建文件夹",
+    "lab6/report",
+    "lab6/新建文件夹",
+    "lab4/report.md",
     "lab6",
     "lab5/figs/datapath.png",
-    "lab5/report.md",
     "lab4_张瑞康_PB21061284/report.md",
     "hw6.md",
     "lab5/draft.md",
     "lab5/figs",
     "hw6.pdf",
     "hw6_tmp.html",
-    "lab4/report.md",
     "lab5",
-    "lab4/report_tmp.html",
-    "lab4/report.pdf",
     "lab4/figs/Screenshot 2023-05-11 205424.png",
     "lab4/figs/Screenshot 2023-05-11 205247.png",
     "lab4/figs/Screenshot 2023-05-11 204831.png",
     "lab4/指令简析.md",
     "lab4/figs/Screenshot 2023-05-11 204607.png",
-    "lab4/figs/ALU.png",
-    "lab4/figs/Datapath.png",
-    "lab4/figs/Datapath(old).png",
-    "lab1/lab1_PB21061284_张瑞康.md",
-    "lab4/figs",
-    "lab4"
+    "lab1/lab1_PB21061284_张瑞康.md"
   ]
 }
